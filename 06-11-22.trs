@@ -1,0 +1,1510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans audio_filename="06-11-22.avi" scribe="can9" version="1">
+  <Speakers>
+    <Speaker accent="" check="no" dialect="native" id="M" name="Presentatrice"   scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="A" name="Brigitte Berthusod"  scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="B" name="Juliette Mathys-Sierro"  scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="C" name="Damian Konig"  scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="D" name="Jerome Morisod"  scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="ALL" name="Whole group" scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="CREDITS" name="Credits" scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="INTRO" name="Topic intro" scope="local" type="unknown" />
+    <Speaker accent="" check="no" dialect="native" id="MULTI" name="Multiple participants" scope="local" type="unknown" />
+  </Speakers>
+  <Episode air_date="06-11-22" program="Canal9">
+    <Section endTime="2349.72" startTime="0.0" type="report">
+      <Turn endTime="11.36" speaker="CREDITS" startTime="0">
+        <Sync time="0" />
+      </Turn>
+      <Turn endTime="84.64" speaker="INTRO" startTime="11.36">
+        <Sync time="11.36" />
+      </Turn>
+      <Turn endTime="95.12" speaker="M" startTime="84.64">
+        <Sync time="84.64" />
+      </Turn>
+      <Turn endTime="103.2" speaker="ALL" startTime="95.12">
+        <Sync time="95.12" />
+      </Turn>
+      <Turn endTime="112.2" speaker="A" startTime="103.2">
+        <Sync time="103.2" />
+      </Turn>
+      <Turn endTime="115.24" speaker="M" startTime="112.2">
+        <Sync time="112.2" />
+      </Turn>
+      <Turn endTime="120.12" speaker="ALL" startTime="115.24">
+        <Sync time="115.24" />
+      </Turn>
+      <Turn endTime="135.12" speaker="D" startTime="120.12">
+        <Sync time="120.12" />
+      </Turn>
+      <Turn endTime="139" speaker="M" startTime="135.12">
+        <Sync time="135.12" />
+      </Turn>
+      <Turn endTime="145.28" speaker="ALL" startTime="139">
+        <Sync time="139" />
+      </Turn>
+      <Turn endTime="155.52" speaker="B" startTime="145.28">
+        <Sync time="145.28" />
+      </Turn>
+      <Turn endTime="158.44" speaker="M" startTime="155.52">
+        <Sync time="155.52" />
+      </Turn>
+      <Turn endTime="163.76" speaker="ALL" startTime="158.44">
+        <Sync time="158.44" />
+      </Turn>
+      <Turn endTime="173.64" speaker="C" startTime="163.76">
+        <Sync time="163.76" />
+      </Turn>
+      <Turn endTime="175.16" speaker="M" startTime="173.64">
+        <Sync time="173.64" />
+      </Turn>
+      <Turn endTime="178.56" speaker="ALL" startTime="175.16">
+        <Sync time="175.16" />
+      </Turn>
+      <Turn endTime="181.24" speaker="M" startTime="178.56">
+        <Sync time="178.56" />
+      </Turn>
+      <Turn endTime="193.6" speaker="C" startTime="181.24">
+        <Sync time="181.24" />
+      </Turn>
+      <Turn endTime="196" speaker="B" startTime="193.6">
+        <Sync time="193.6" />
+      </Turn>
+      <Turn endTime="199.56" speaker="C" startTime="196">
+        <Sync time="196" />
+      </Turn>
+      <Turn endTime="203.36" speaker="ALL" startTime="199.56">
+        <Sync time="199.56" />
+      </Turn>
+      <Turn endTime="211.48" speaker="C" startTime="203.36">
+        <Sync time="203.36" />
+      </Turn>
+      <Turn endTime="216" speaker="MULTI" startTime="211.48">
+        <Sync time="211.48" />
+      </Turn>
+      <Turn endTime="224.08" speaker="C" startTime="216">
+        <Sync time="216" />
+      </Turn>
+      <Turn endTime="227.16" speaker="ALL" startTime="224.08">
+        <Sync time="224.08" />
+      </Turn>
+      <Turn endTime="234.32" speaker="C" startTime="227.16">
+        <Sync time="227.16" />
+      </Turn>
+      <Turn endTime="235.76" speaker="M" startTime="234.32">
+        <Sync time="234.32" />
+      </Turn>
+      <Turn endTime="241.48" speaker="ALL" startTime="235.76">
+        <Sync time="235.76" />
+      </Turn>
+      <Turn endTime="249.84" speaker="A" startTime="241.48">
+        <Sync time="241.48" />
+      </Turn>
+      <Turn endTime="255.08" speaker="MULTI" startTime="249.84">
+        <Sync time="249.84" />
+      </Turn>
+      <Turn endTime="261.84" speaker="A" startTime="255.08">
+        <Sync time="255.08" />
+      </Turn>
+      <Turn endTime="266.08" speaker="MULTI" startTime="261.84">
+        <Sync time="261.84" />
+      </Turn>
+      <Turn endTime="267.24" speaker="A" startTime="266.08">
+        <Sync time="266.08" />
+      </Turn>
+      <Turn endTime="270.12" speaker="M" startTime="267.24">
+        <Sync time="267.24" />
+      </Turn>
+      <Turn endTime="272.88" speaker="ALL" startTime="270.12">
+        <Sync time="270.12" />
+      </Turn>
+      <Turn endTime="277.92" speaker="M" startTime="272.88">
+        <Sync time="272.88" />
+      </Turn>
+      <Turn endTime="282.04" speaker="ALL" startTime="277.92">
+        <Sync time="277.92" />
+      </Turn>
+      <Turn endTime="286.52" speaker="M" startTime="282.04">
+        <Sync time="282.04" />
+      </Turn>
+      <Turn endTime="294.36" speaker="D" startTime="286.52">
+        <Sync time="286.52" />
+      </Turn>
+      <Turn endTime="296.32" speaker="M" startTime="294.36">
+        <Sync time="294.36" />
+      </Turn>
+      <Turn endTime="301.32" speaker="ALL" startTime="296.32">
+        <Sync time="296.32" />
+      </Turn>
+      <Turn endTime="306.08" speaker="D" startTime="301.32">
+        <Sync time="301.32" />
+      </Turn>
+      <Turn endTime="312.08" speaker="MULTI" startTime="306.08">
+        <Sync time="306.08" />
+      </Turn>
+      <Turn endTime="316.04" speaker="D" startTime="312.08">
+        <Sync time="312.08" />
+      </Turn>
+      <Turn endTime="319.48" speaker="MULTI" startTime="316.04">
+        <Sync time="316.04" />
+      </Turn>
+      <Turn endTime="334.08" speaker="D" startTime="319.48">
+        <Sync time="319.48" />
+      </Turn>
+      <Turn endTime="339" speaker="MULTI" startTime="334.08">
+        <Sync time="334.08" />
+      </Turn>
+      <Turn endTime="351.2" speaker="D" startTime="339">
+        <Sync time="339" />
+      </Turn>
+      <Turn endTime="356.04" speaker="MULTI" startTime="351.2">
+        <Sync time="351.2" />
+      </Turn>
+      <Turn endTime="357.76" speaker="M" startTime="356.04">
+        <Sync time="356.04" />
+      </Turn>
+      <Turn endTime="366.64" speaker="D" startTime="357.76">
+        <Sync time="357.76" />
+      </Turn>
+      <Turn endTime="369.44" speaker="MULTI" startTime="366.64">
+        <Sync time="366.64" />
+      </Turn>
+      <Turn endTime="374.84" speaker="M" startTime="369.44">
+        <Sync time="369.44" />
+      </Turn>
+      <Turn endTime="377.2" speaker="ALL" startTime="374.84">
+        <Sync time="374.84" />
+      </Turn>
+      <Turn endTime="389.92" speaker="B" startTime="377.2">
+        <Sync time="377.2" />
+      </Turn>
+      <Turn endTime="393.56" speaker="MULTI" startTime="389.92">
+        <Sync time="389.92" />
+      </Turn>
+      <Turn endTime="403.32" speaker="B" startTime="393.56">
+        <Sync time="393.56" />
+      </Turn>
+      <Turn endTime="405.16" speaker="M" startTime="403.32">
+        <Sync time="403.32" />
+      </Turn>
+      <Turn endTime="408.16" speaker="B" startTime="405.16">
+        <Sync time="405.16" />
+      </Turn>
+      <Turn endTime="412.12" speaker="MULTI" startTime="408.16">
+        <Sync time="408.16" />
+      </Turn>
+      <Turn endTime="415.68" speaker="B" startTime="412.12">
+        <Sync time="412.12" />
+      </Turn>
+      <Turn endTime="418.44" speaker="MULTI" startTime="415.68">
+        <Sync time="415.68" />
+      </Turn>
+      <Turn endTime="423.4" speaker="B" startTime="418.44">
+        <Sync time="418.44" />
+      </Turn>
+      <Turn endTime="430.76" speaker="MULTI" startTime="423.4">
+        <Sync time="423.4" />
+      </Turn>
+      <Turn endTime="435.72" speaker="B" startTime="430.76">
+        <Sync time="430.76" />
+      </Turn>
+      <Turn endTime="439.96" speaker="ALL" startTime="435.72">
+        <Sync time="435.72" />
+      </Turn>
+      <Turn endTime="444.24" speaker="B" startTime="439.96">
+        <Sync time="439.96" />
+      </Turn>
+      <Turn endTime="448.24" speaker="MULTI" startTime="444.24">
+        <Sync time="444.24" />
+      </Turn>
+      <Turn endTime="453.12" speaker="B" startTime="448.24">
+        <Sync time="448.24" />
+      </Turn>
+      <Turn endTime="455.96" speaker="M" startTime="453.12">
+        <Sync time="453.12" />
+      </Turn>
+      <Turn endTime="464.12" speaker="ALL" startTime="455.96">
+        <Sync time="455.96" />
+      </Turn>
+      <Turn endTime="470.08" speaker="C" startTime="464.12">
+        <Sync time="464.12" />
+      </Turn>
+      <Turn endTime="473.44" speaker="MULTI" startTime="470.08">
+        <Sync time="470.08" />
+      </Turn>
+      <Turn endTime="479.12" speaker="C" startTime="473.44">
+        <Sync time="473.44" />
+      </Turn>
+      <Turn endTime="482.6" speaker="MULTI" startTime="479.12">
+        <Sync time="479.12" />
+      </Turn>
+      <Turn endTime="496.08" speaker="C" startTime="482.6">
+        <Sync time="482.6" />
+      </Turn>
+      <Turn endTime="499.6" speaker="MULTI" startTime="496.08">
+        <Sync time="496.08" />
+      </Turn>
+      <Turn endTime="502.68" speaker="C" startTime="499.6">
+        <Sync time="499.6" />
+      </Turn>
+      <Turn endTime="507.72" speaker="MULTI" startTime="502.68">
+        <Sync time="502.68" />
+      </Turn>
+      <Turn endTime="511.08" speaker="M" startTime="507.72">
+        <Sync time="507.72" />
+      </Turn>
+      <Turn endTime="517.28" speaker="C" startTime="511.08">
+        <Sync time="511.08" />
+      </Turn>
+      <Turn endTime="519.44" speaker="MULTI" startTime="517.28">
+        <Sync time="517.28" />
+      </Turn>
+      <Turn endTime="528.28" speaker="C" startTime="519.44">
+        <Sync time="519.44" />
+      </Turn>
+      <Turn endTime="531.76" speaker="MULTI" startTime="528.28">
+        <Sync time="528.28" />
+      </Turn>
+      <Turn endTime="534.76" speaker="C" startTime="531.76">
+        <Sync time="531.76" />
+      </Turn>
+      <Turn endTime="535.88" speaker="M" startTime="534.76">
+        <Sync time="534.76" />
+      </Turn>
+      <Turn endTime="540.12" speaker="ALL" startTime="535.88">
+        <Sync time="535.88" />
+      </Turn>
+      <Turn endTime="545" speaker="C" startTime="540.12">
+        <Sync time="540.12" />
+      </Turn>
+      <Turn endTime="549.2" speaker="MULTI" startTime="545">
+        <Sync time="545" />
+      </Turn>
+      <Turn endTime="553.16" speaker="C" startTime="549.2">
+        <Sync time="549.2" />
+      </Turn>
+      <Turn endTime="557.12" speaker="ALL" startTime="553.16">
+        <Sync time="553.16" />
+      </Turn>
+      <Turn endTime="563.32" speaker="C" startTime="557.12">
+        <Sync time="557.12" />
+      </Turn>
+      <Turn endTime="565.6" speaker="B" startTime="563.32">
+        <Sync time="563.32" />
+      </Turn>
+      <Turn endTime="572.84" speaker="C" startTime="565.6">
+        <Sync time="565.6" />
+      </Turn>
+      <Turn endTime="579.4" speaker="ALL" startTime="572.84">
+        <Sync time="572.84" />
+      </Turn>
+      <Turn endTime="584.84" speaker="C" startTime="579.4">
+        <Sync time="579.4" />
+      </Turn>
+      <Turn endTime="587.72" speaker="MULTI" startTime="584.84">
+        <Sync time="584.84" />
+      </Turn>
+      <Turn endTime="588.64" speaker="C" startTime="587.72">
+        <Sync time="587.72" />
+      </Turn>
+      <Turn endTime="590.28" speaker="M" startTime="588.64">
+        <Sync time="588.64" />
+      </Turn>
+      <Turn endTime="593.28" speaker="ALL" startTime="590.28">
+        <Sync time="590.28" />
+      </Turn>
+      <Turn endTime="598.48" speaker="A" startTime="593.28">
+        <Sync time="593.28" />
+      </Turn>
+      <Turn endTime="601.92" speaker="M" startTime="598.48">
+        <Sync time="598.48" />
+      </Turn>
+      <Turn endTime="605.16" speaker="A" startTime="601.92">
+        <Sync time="601.92" />
+      </Turn>
+      <Turn endTime="609.68" speaker="MULTI" startTime="605.16">
+        <Sync time="605.16" />
+      </Turn>
+      <Turn endTime="613.88" speaker="A" startTime="609.68">
+        <Sync time="609.68" />
+      </Turn>
+      <Turn endTime="619.28" speaker="ALL" startTime="613.88">
+        <Sync time="613.88" />
+      </Turn>
+      <Turn endTime="622.72" speaker="A" startTime="619.28">
+        <Sync time="619.28" />
+      </Turn>
+      <Turn endTime="625.44" speaker="MULTI" startTime="622.72">
+        <Sync time="622.72" />
+      </Turn>
+      <Turn endTime="629.24" speaker="A" startTime="625.44">
+        <Sync time="625.44" />
+      </Turn>
+      <Turn endTime="630.68" speaker="M" startTime="629.24">
+        <Sync time="629.24" />
+      </Turn>
+      <Turn endTime="633.04" speaker="A" startTime="630.68">
+        <Sync time="630.68" />
+      </Turn>
+      <Turn endTime="636.56" speaker="MULTI" startTime="633.04">
+        <Sync time="633.04" />
+      </Turn>
+      <Turn endTime="640.92" speaker="A" startTime="636.56">
+        <Sync time="636.56" />
+      </Turn>
+      <Turn endTime="642.92" speaker="ALL" startTime="640.92">
+        <Sync time="640.92" />
+      </Turn>
+      <Turn endTime="651.4" speaker="A" startTime="642.92">
+        <Sync time="642.92" />
+      </Turn>
+      <Turn endTime="652.56" speaker="M" startTime="651.4">
+        <Sync time="651.4" />
+      </Turn>
+      <Turn endTime="668.8" speaker="A" startTime="652.56">
+        <Sync time="652.56" />
+      </Turn>
+      <Turn endTime="678.56" speaker="MULTI" startTime="668.8">
+        <Sync time="668.8" />
+      </Turn>
+      <Turn endTime="688.76" speaker="ALL" startTime="678.56">
+        <Sync time="678.56" />
+      </Turn>
+      <Turn endTime="709.84" speaker="D" startTime="688.76">
+        <Sync time="688.76" />
+      </Turn>
+      <Turn endTime="712.28" speaker="ALL" startTime="709.84">
+        <Sync time="709.84" />
+      </Turn>
+      <Turn endTime="720.52" speaker="D" startTime="712.28">
+        <Sync time="712.28" />
+      </Turn>
+      <Turn endTime="726.12" speaker="MULTI" startTime="720.52">
+        <Sync time="720.52" />
+      </Turn>
+      <Turn endTime="731.56" speaker="D" startTime="726.12">
+        <Sync time="726.12" />
+      </Turn>
+      <Turn endTime="734" speaker="MULTI" startTime="731.56">
+        <Sync time="731.56" />
+      </Turn>
+      <Turn endTime="735.72" speaker="D" startTime="734">
+        <Sync time="734" />
+      </Turn>
+      <Turn endTime="738.44" speaker="MULTI" startTime="735.72">
+        <Sync time="735.72" />
+      </Turn>
+      <Turn endTime="743.48" speaker="ALL" startTime="738.44">
+        <Sync time="738.44" />
+      </Turn>
+      <Turn endTime="748.72" speaker="D" startTime="743.48">
+        <Sync time="743.48" />
+      </Turn>
+      <Turn endTime="753.64" speaker="MULTI" startTime="748.72">
+        <Sync time="748.72" />
+      </Turn>
+      <Turn endTime="759.16" speaker="D" startTime="753.64">
+        <Sync time="753.64" />
+      </Turn>
+      <Turn endTime="762.2" speaker="ALL" startTime="759.16">
+        <Sync time="759.16" />
+      </Turn>
+      <Turn endTime="767.44" speaker="MULTI" startTime="762.2">
+        <Sync time="762.2" />
+      </Turn>
+      <Turn endTime="772.48" speaker="D" startTime="767.44">
+        <Sync time="767.44" />
+      </Turn>
+      <Turn endTime="774.28" speaker="M" startTime="772.48">
+        <Sync time="772.48" />
+      </Turn>
+      <Turn endTime="782.72" speaker="ALL" startTime="774.28">
+        <Sync time="774.28" />
+      </Turn>
+      <Turn endTime="787.88" speaker="D" startTime="782.72">
+        <Sync time="782.72" />
+      </Turn>
+      <Turn endTime="789.8" speaker="M" startTime="787.88">
+        <Sync time="787.88" />
+      </Turn>
+      <Turn endTime="792.24" speaker="ALL" startTime="789.8">
+        <Sync time="789.8" />
+      </Turn>
+      <Turn endTime="805.84" speaker="D" startTime="792.24">
+        <Sync time="792.24" />
+      </Turn>
+      <Turn endTime="809.32" speaker="MULTI" startTime="805.84">
+        <Sync time="805.84" />
+      </Turn>
+      <Turn endTime="813.76" speaker="D" startTime="809.32">
+        <Sync time="809.32" />
+      </Turn>
+      <Turn endTime="817.72" speaker="ALL" startTime="813.76">
+        <Sync time="813.76" />
+      </Turn>
+      <Turn endTime="828.6" speaker="D" startTime="817.72">
+        <Sync time="817.72" />
+      </Turn>
+      <Turn endTime="832.52" speaker="MULTI" startTime="828.6">
+        <Sync time="828.6" />
+      </Turn>
+      <Turn endTime="838.88" speaker="D" startTime="832.52">
+        <Sync time="832.52" />
+      </Turn>
+      <Turn endTime="841.12" speaker="MULTI" startTime="838.88">
+        <Sync time="838.88" />
+      </Turn>
+      <Turn endTime="845.04" speaker="D" startTime="841.12">
+        <Sync time="841.12" />
+      </Turn>
+      <Turn endTime="847.88" speaker="ALL" startTime="845.04">
+        <Sync time="845.04" />
+      </Turn>
+      <Turn endTime="850.12" speaker="M" startTime="847.88">
+        <Sync time="847.88" />
+      </Turn>
+      <Turn endTime="853.88" speaker="ALL" startTime="850.12">
+        <Sync time="850.12" />
+      </Turn>
+      <Turn endTime="861.76" speaker="B" startTime="853.88">
+        <Sync time="853.88" />
+      </Turn>
+      <Turn endTime="866.32" speaker="MULTI" startTime="861.76">
+        <Sync time="861.76" />
+      </Turn>
+      <Turn endTime="870.88" speaker="B" startTime="866.32">
+        <Sync time="866.32" />
+      </Turn>
+      <Turn endTime="876.6" speaker="MULTI" startTime="870.88">
+        <Sync time="870.88" />
+      </Turn>
+      <Turn endTime="890.48" speaker="B" startTime="876.6">
+        <Sync time="876.6" />
+      </Turn>
+      <Turn endTime="893.36" speaker="M" startTime="890.48">
+        <Sync time="890.48" />
+      </Turn>
+      <Turn endTime="894.32" speaker="B" startTime="893.36">
+        <Sync time="893.36" />
+      </Turn>
+      <Turn endTime="898.72" speaker="ALL" startTime="894.32">
+        <Sync time="894.32" />
+      </Turn>
+      <Turn endTime="901.6" speaker="A" startTime="898.72">
+        <Sync time="898.72" />
+      </Turn>
+      <Turn endTime="904.48" speaker="D" startTime="901.6">
+        <Sync time="901.6" />
+      </Turn>
+      <Turn endTime="908.16" speaker="A" startTime="904.48">
+        <Sync time="904.48" />
+      </Turn>
+      <Turn endTime="914" speaker="ALL" startTime="908.16">
+        <Sync time="908.16" />
+      </Turn>
+      <Turn endTime="920.6" speaker="A" startTime="914">
+        <Sync time="914" />
+      </Turn>
+      <Turn endTime="924.76" speaker="ALL" startTime="920.6">
+        <Sync time="920.6" />
+      </Turn>
+      <Turn endTime="929.52" speaker="D" startTime="924.76">
+        <Sync time="924.76" />
+      </Turn>
+      <Turn endTime="934.08" speaker="MULTI" startTime="929.52">
+        <Sync time="929.52" />
+      </Turn>
+      <Turn endTime="938.04" speaker="D" startTime="934.08">
+        <Sync time="934.08" />
+      </Turn>
+      <Turn endTime="939.76" speaker="MULTI" startTime="938.04">
+        <Sync time="938.04" />
+      </Turn>
+      <Turn endTime="942.24" speaker="D" startTime="939.76">
+        <Sync time="939.76" />
+      </Turn>
+      <Turn endTime="944.48" speaker="M" startTime="942.24">
+        <Sync time="942.24" />
+      </Turn>
+      <Turn endTime="949" speaker="ALL" startTime="944.48">
+        <Sync time="944.48" />
+      </Turn>
+      <Turn endTime="950.44" speaker="D" startTime="949">
+        <Sync time="949" />
+      </Turn>
+      <Turn endTime="952.56" speaker="M" startTime="950.44">
+        <Sync time="950.44" />
+      </Turn>
+      <Turn endTime="955.48" speaker="MULTI" startTime="952.56">
+        <Sync time="952.56" />
+      </Turn>
+      <Turn endTime="957.76" speaker="M" startTime="955.48">
+        <Sync time="955.48" />
+      </Turn>
+      <Turn endTime="966.08" speaker="D" startTime="957.76">
+        <Sync time="957.76" />
+      </Turn>
+      <Turn endTime="968.68" speaker="MULTI" startTime="966.08">
+        <Sync time="966.08" />
+      </Turn>
+      <Turn endTime="974.52" speaker="D" startTime="968.68">
+        <Sync time="968.68" />
+      </Turn>
+      <Turn endTime="979.12" speaker="MULTI" startTime="974.52">
+        <Sync time="974.52" />
+      </Turn>
+      <Turn endTime="982.12" speaker="D" startTime="979.12">
+        <Sync time="979.12" />
+      </Turn>
+      <Turn endTime="990.48" speaker="MULTI" startTime="982.12">
+        <Sync time="982.12" />
+      </Turn>
+      <Turn endTime="995.56" speaker="M" startTime="990.48">
+        <Sync time="990.48" />
+      </Turn>
+      <Turn endTime="1000.88" speaker="D" startTime="995.56">
+        <Sync time="995.56" />
+      </Turn>
+      <Turn endTime="1004.36" speaker="MULTI" startTime="1000.88">
+        <Sync time="1000.88" />
+      </Turn>
+      <Turn endTime="1008.76" speaker="D" startTime="1004.36">
+        <Sync time="1004.36" />
+      </Turn>
+      <Turn endTime="1013.28" speaker="MULTI" startTime="1008.76">
+        <Sync time="1008.76" />
+      </Turn>
+      <Turn endTime="1016.76" speaker="D" startTime="1013.28">
+        <Sync time="1013.28" />
+      </Turn>
+      <Turn endTime="1020.72" speaker="MULTI" startTime="1016.76">
+        <Sync time="1016.76" />
+      </Turn>
+      <Turn endTime="1021.68" speaker="D" startTime="1020.72">
+        <Sync time="1020.72" />
+      </Turn>
+      <Turn endTime="1023.68" speaker="M" startTime="1021.68">
+        <Sync time="1021.68" />
+      </Turn>
+      <Turn endTime="1026.36" speaker="ALL" startTime="1023.68">
+        <Sync time="1023.68" />
+      </Turn>
+      <Turn endTime="1030.04" speaker="M" startTime="1026.36">
+        <Sync time="1026.36" />
+      </Turn>
+      <Turn endTime="1034.6" speaker="B" startTime="1030.04">
+        <Sync time="1030.04" />
+      </Turn>
+      <Turn endTime="1039.96" speaker="M" startTime="1034.6">
+        <Sync time="1034.6" />
+      </Turn>
+      <Turn endTime="1043.08" speaker="MULTI" startTime="1039.96">
+        <Sync time="1039.96" />
+      </Turn>
+      <Turn endTime="1047.2" speaker="B" startTime="1043.08">
+        <Sync time="1043.08" />
+      </Turn>
+      <Turn endTime="1050.08" speaker="MULTI" startTime="1047.2">
+        <Sync time="1047.2" />
+      </Turn>
+      <Turn endTime="1055.08" speaker="B" startTime="1050.08">
+        <Sync time="1050.08" />
+      </Turn>
+      <Turn endTime="1058.36" speaker="MULTI" startTime="1055.08">
+        <Sync time="1055.08" />
+      </Turn>
+      <Turn endTime="1068.56" speaker="B" startTime="1058.36">
+        <Sync time="1058.36" />
+      </Turn>
+      <Turn endTime="1072.12" speaker="MULTI" startTime="1068.56">
+        <Sync time="1068.56" />
+      </Turn>
+      <Turn endTime="1076.12" speaker="B" startTime="1072.12">
+        <Sync time="1072.12" />
+      </Turn>
+      <Turn endTime="1079.84" speaker="MULTI" startTime="1076.12">
+        <Sync time="1076.12" />
+      </Turn>
+      <Turn endTime="1102.12" speaker="B" startTime="1079.84">
+        <Sync time="1079.84" />
+      </Turn>
+      <Turn endTime="1105.92" speaker="MULTI" startTime="1102.12">
+        <Sync time="1102.12" />
+      </Turn>
+      <Turn endTime="1109.96" speaker="B" startTime="1105.92">
+        <Sync time="1105.92" />
+      </Turn>
+      <Turn endTime="1111.76" speaker="M" startTime="1109.96">
+        <Sync time="1109.96" />
+      </Turn>
+      <Turn endTime="1117.56" speaker="B" startTime="1111.76">
+        <Sync time="1111.76" />
+      </Turn>
+      <Turn endTime="1122.24" speaker="MULTI" startTime="1117.56">
+        <Sync time="1117.56" />
+      </Turn>
+      <Turn endTime="1127.12" speaker="B" startTime="1122.24">
+        <Sync time="1122.24" />
+      </Turn>
+      <Turn endTime="1131.04" speaker="MULTI" startTime="1127.12">
+        <Sync time="1127.12" />
+      </Turn>
+      <Turn endTime="1136.24" speaker="B" startTime="1131.04">
+        <Sync time="1131.04" />
+      </Turn>
+      <Turn endTime="1140.28" speaker="ALL" startTime="1136.24">
+        <Sync time="1136.24" />
+      </Turn>
+      <Turn endTime="1143.76" speaker="B" startTime="1140.28">
+        <Sync time="1140.28" />
+      </Turn>
+      <Turn endTime="1146.76" speaker="MULTI" startTime="1143.76">
+        <Sync time="1143.76" />
+      </Turn>
+      <Turn endTime="1147.64" speaker="B" startTime="1146.76">
+        <Sync time="1146.76" />
+      </Turn>
+      <Turn endTime="1150.04" speaker="M" startTime="1147.64">
+        <Sync time="1147.64" />
+      </Turn>
+      <Turn endTime="1153" speaker="ALL" startTime="1150.04">
+        <Sync time="1150.04" />
+      </Turn>
+      <Turn endTime="1155.16" speaker="M" startTime="1153">
+        <Sync time="1153" />
+      </Turn>
+      <Turn endTime="1157.44" speaker="ALL" startTime="1155.16">
+        <Sync time="1155.16" />
+      </Turn>
+      <Turn endTime="1161.52" speaker="C" startTime="1157.44">
+        <Sync time="1157.44" />
+      </Turn>
+      <Turn endTime="1164.36" speaker="MULTI" startTime="1161.52">
+        <Sync time="1161.52" />
+      </Turn>
+      <Turn endTime="1181.92" speaker="C" startTime="1164.36">
+        <Sync time="1164.36" />
+      </Turn>
+      <Turn endTime="1185.04" speaker="MULTI" startTime="1181.92">
+        <Sync time="1181.92" />
+      </Turn>
+      <Turn endTime="1192.28" speaker="C" startTime="1185.04">
+        <Sync time="1185.04" />
+      </Turn>
+      <Turn endTime="1194.76" speaker="MULTI" startTime="1192.28">
+        <Sync time="1192.28" />
+      </Turn>
+      <Turn endTime="1196.64" speaker="C" startTime="1194.76">
+        <Sync time="1194.76" />
+      </Turn>
+      <Turn endTime="1200.52" speaker="MULTI" startTime="1196.64">
+        <Sync time="1196.64" />
+      </Turn>
+      <Turn endTime="1202.84" speaker="C" startTime="1200.52">
+        <Sync time="1200.52" />
+      </Turn>
+      <Turn endTime="1205.64" speaker="MULTI" startTime="1202.84">
+        <Sync time="1202.84" />
+      </Turn>
+      <Turn endTime="1207.28" speaker="M" startTime="1205.64">
+        <Sync time="1205.64" />
+      </Turn>
+      <Turn endTime="1209.88" speaker="C" startTime="1207.28">
+        <Sync time="1207.28" />
+      </Turn>
+      <Turn endTime="1212.28" speaker="MULTI" startTime="1209.88">
+        <Sync time="1209.88" />
+      </Turn>
+      <Turn endTime="1220.88" speaker="C" startTime="1212.28">
+        <Sync time="1212.28" />
+      </Turn>
+      <Turn endTime="1225.24" speaker="B" startTime="1220.88">
+        <Sync time="1220.88" />
+      </Turn>
+      <Turn endTime="1229.4" speaker="C" startTime="1225.24">
+        <Sync time="1225.24" />
+      </Turn>
+      <Turn endTime="1234" speaker="B" startTime="1229.4">
+        <Sync time="1229.4" />
+      </Turn>
+      <Turn endTime="1239.84" speaker="C" startTime="1234">
+        <Sync time="1234" />
+      </Turn>
+      <Turn endTime="1243.8" speaker="ALL" startTime="1239.84">
+        <Sync time="1239.84" />
+      </Turn>
+      <Turn endTime="1248.56" speaker="C" startTime="1243.8">
+        <Sync time="1243.8" />
+      </Turn>
+      <Turn endTime="1252.36" speaker="MULTI" startTime="1248.56">
+        <Sync time="1248.56" />
+      </Turn>
+      <Turn endTime="1258.48" speaker="C" startTime="1252.36">
+        <Sync time="1252.36" />
+      </Turn>
+      <Turn endTime="1261.72" speaker="ALL" startTime="1258.48">
+        <Sync time="1258.48" />
+      </Turn>
+      <Turn endTime="1264.76" speaker="C" startTime="1261.72">
+        <Sync time="1261.72" />
+      </Turn>
+      <Turn endTime="1267.88" speaker="MULTI" startTime="1264.76">
+        <Sync time="1264.76" />
+      </Turn>
+      <Turn endTime="1281.4" speaker="C" startTime="1267.88">
+        <Sync time="1267.88" />
+      </Turn>
+      <Turn endTime="1283.92" speaker="B" startTime="1281.4">
+        <Sync time="1281.4" />
+      </Turn>
+      <Turn endTime="1286.04" speaker="C" startTime="1283.92">
+        <Sync time="1283.92" />
+      </Turn>
+      <Turn endTime="1287.76" speaker="M" startTime="1286.04">
+        <Sync time="1286.04" />
+      </Turn>
+      <Turn endTime="1296.36" speaker="B" startTime="1287.76">
+        <Sync time="1287.76" />
+      </Turn>
+      <Turn endTime="1302.04" speaker="ALL" startTime="1296.36">
+        <Sync time="1296.36" />
+      </Turn>
+      <Turn endTime="1307.52" speaker="B" startTime="1302.04">
+        <Sync time="1302.04" />
+      </Turn>
+      <Turn endTime="1310.96" speaker="ALL" startTime="1307.52">
+        <Sync time="1307.52" />
+      </Turn>
+      <Turn endTime="1320.44" speaker="B" startTime="1310.96">
+        <Sync time="1310.96" />
+      </Turn>
+      <Turn endTime="1323.96" speaker="MULTI" startTime="1320.44">
+        <Sync time="1320.44" />
+      </Turn>
+      <Turn endTime="1328.48" speaker="B" startTime="1323.96">
+        <Sync time="1323.96" />
+      </Turn>
+      <Turn endTime="1332.48" speaker="ALL" startTime="1328.48">
+        <Sync time="1328.48" />
+      </Turn>
+      <Turn endTime="1335.76" speaker="B" startTime="1332.48">
+        <Sync time="1332.48" />
+      </Turn>
+      <Turn endTime="1338.28" speaker="MULTI" startTime="1335.76">
+        <Sync time="1335.76" />
+      </Turn>
+      <Turn endTime="1347.24" speaker="B" startTime="1338.28">
+        <Sync time="1338.28" />
+      </Turn>
+      <Turn endTime="1351.32" speaker="MULTI" startTime="1347.24">
+        <Sync time="1347.24" />
+      </Turn>
+      <Turn endTime="1352.96" speaker="B" startTime="1351.32">
+        <Sync time="1351.32" />
+      </Turn>
+      <Turn endTime="1354.84" speaker="M" startTime="1352.96">
+        <Sync time="1352.96" />
+      </Turn>
+      <Turn endTime="1356.68" speaker="B" startTime="1354.84">
+        <Sync time="1354.84" />
+      </Turn>
+      <Turn endTime="1358.8" speaker="ALL" startTime="1356.68">
+        <Sync time="1356.68" />
+      </Turn>
+      <Turn endTime="1364.68" speaker="B" startTime="1358.8">
+        <Sync time="1358.8" />
+      </Turn>
+      <Turn endTime="1369.6" speaker="MULTI" startTime="1364.68">
+        <Sync time="1364.68" />
+      </Turn>
+      <Turn endTime="1383.32" speaker="B" startTime="1369.6">
+        <Sync time="1369.6" />
+      </Turn>
+      <Turn endTime="1387.24" speaker="MULTI" startTime="1383.32">
+        <Sync time="1383.32" />
+      </Turn>
+      <Turn endTime="1390.64" speaker="ALL" startTime="1387.24">
+        <Sync time="1387.24" />
+      </Turn>
+      <Turn endTime="1397.04" speaker="A" startTime="1390.64">
+        <Sync time="1390.64" />
+      </Turn>
+      <Turn endTime="1401" speaker="MULTI" startTime="1397.04">
+        <Sync time="1397.04" />
+      </Turn>
+      <Turn endTime="1404.52" speaker="A" startTime="1401">
+        <Sync time="1401" />
+      </Turn>
+      <Turn endTime="1406.52" speaker="MULTI" startTime="1404.52">
+        <Sync time="1404.52" />
+      </Turn>
+      <Turn endTime="1411.36" speaker="A" startTime="1406.52">
+        <Sync time="1406.52" />
+      </Turn>
+      <Turn endTime="1414.68" speaker="MULTI" startTime="1411.36">
+        <Sync time="1411.36" />
+      </Turn>
+      <Turn endTime="1419.8" speaker="A" startTime="1414.68">
+        <Sync time="1414.68" />
+      </Turn>
+      <Turn endTime="1423.88" speaker="ALL" startTime="1419.8">
+        <Sync time="1419.8" />
+      </Turn>
+      <Turn endTime="1426.72" speaker="A" startTime="1423.88">
+        <Sync time="1423.88" />
+      </Turn>
+      <Turn endTime="1430.28" speaker="MULTI" startTime="1426.72">
+        <Sync time="1426.72" />
+      </Turn>
+      <Turn endTime="1434.6" speaker="A" startTime="1430.28">
+        <Sync time="1430.28" />
+      </Turn>
+      <Turn endTime="1442.52" speaker="MULTI" startTime="1434.6">
+        <Sync time="1434.6" />
+      </Turn>
+      <Turn endTime="1444.08" speaker="M" startTime="1442.52">
+        <Sync time="1442.52" />
+      </Turn>
+      <Turn endTime="1446.8" speaker="ALL" startTime="1444.08">
+        <Sync time="1444.08" />
+      </Turn>
+      <Turn endTime="1448.84" speaker="M" startTime="1446.8">
+        <Sync time="1446.8" />
+      </Turn>
+      <Turn endTime="1450.88" speaker="ALL" startTime="1448.84">
+        <Sync time="1448.84" />
+      </Turn>
+      <Turn endTime="1462.08" speaker="D" startTime="1450.88">
+        <Sync time="1450.88" />
+      </Turn>
+      <Turn endTime="1465.16" speaker="MULTI" startTime="1462.08">
+        <Sync time="1462.08" />
+      </Turn>
+      <Turn endTime="1479.2" speaker="D" startTime="1465.16">
+        <Sync time="1465.16" />
+      </Turn>
+      <Turn endTime="1482.4" speaker="MULTI" startTime="1479.2">
+        <Sync time="1479.2" />
+      </Turn>
+      <Turn endTime="1491.12" speaker="D" startTime="1482.4">
+        <Sync time="1482.4" />
+      </Turn>
+      <Turn endTime="1495" speaker="MULTI" startTime="1491.12">
+        <Sync time="1491.12" />
+      </Turn>
+      <Turn endTime="1501.36" speaker="ALL" startTime="1495">
+        <Sync time="1495" />
+      </Turn>
+      <Turn endTime="1508.44" speaker="D" startTime="1501.36">
+        <Sync time="1501.36" />
+      </Turn>
+      <Turn endTime="1511.16" speaker="MULTI" startTime="1508.44">
+        <Sync time="1508.44" />
+      </Turn>
+      <Turn endTime="1514.52" speaker="D" startTime="1511.16">
+        <Sync time="1511.16" />
+      </Turn>
+      <Turn endTime="1519.24" speaker="MULTI" startTime="1514.52">
+        <Sync time="1514.52" />
+      </Turn>
+      <Turn endTime="1526.12" speaker="D" startTime="1519.24">
+        <Sync time="1519.24" />
+      </Turn>
+      <Turn endTime="1530.48" speaker="MULTI" startTime="1526.12">
+        <Sync time="1526.12" />
+      </Turn>
+      <Turn endTime="1534.96" speaker="D" startTime="1530.48">
+        <Sync time="1530.48" />
+      </Turn>
+      <Turn endTime="1538.48" speaker="ALL" startTime="1534.96">
+        <Sync time="1534.96" />
+      </Turn>
+      <Turn endTime="1541.84" speaker="D" startTime="1538.48">
+        <Sync time="1538.48" />
+      </Turn>
+      <Turn endTime="1544.68" speaker="MULTI" startTime="1541.84">
+        <Sync time="1541.84" />
+      </Turn>
+      <Turn endTime="1547.64" speaker="D" startTime="1544.68">
+        <Sync time="1544.68" />
+      </Turn>
+      <Turn endTime="1548.88" speaker="M" startTime="1547.64">
+        <Sync time="1547.64" />
+      </Turn>
+      <Turn endTime="1551.96" speaker="MULTI" startTime="1548.88">
+        <Sync time="1548.88" />
+      </Turn>
+      <Turn endTime="1557.8" speaker="D" startTime="1551.96">
+        <Sync time="1551.96" />
+      </Turn>
+      <Turn endTime="1560.28" speaker="MULTI" startTime="1557.8">
+        <Sync time="1557.8" />
+      </Turn>
+      <Turn endTime="1562.08" speaker="M" startTime="1560.28">
+        <Sync time="1560.28" />
+      </Turn>
+      <Turn endTime="1565.8" speaker="ALL" startTime="1562.08">
+        <Sync time="1562.08" />
+      </Turn>
+      <Turn endTime="1574.44" speaker="A" startTime="1565.8">
+        <Sync time="1565.8" />
+      </Turn>
+      <Turn endTime="1577.72" speaker="MULTI" startTime="1574.44">
+        <Sync time="1574.44" />
+      </Turn>
+      <Turn endTime="1583.68" speaker="A" startTime="1577.72">
+        <Sync time="1577.72" />
+      </Turn>
+      <Turn endTime="1586.28" speaker="D" startTime="1583.68">
+        <Sync time="1583.68" />
+      </Turn>
+      <Turn endTime="1588.72" speaker="A" startTime="1586.28">
+        <Sync time="1586.28" />
+      </Turn>
+      <Turn endTime="1591.8" speaker="ALL" startTime="1588.72">
+        <Sync time="1588.72" />
+      </Turn>
+      <Turn endTime="1593" speaker="A" startTime="1591.8">
+        <Sync time="1591.8" />
+      </Turn>
+      <Turn endTime="1595.28" speaker="M" startTime="1593">
+        <Sync time="1593" />
+      </Turn>
+      <Turn endTime="1596.36" speaker="A" startTime="1595.28">
+        <Sync time="1595.28" />
+      </Turn>
+      <Turn endTime="1599.16" speaker="M" startTime="1596.36">
+        <Sync time="1596.36" />
+      </Turn>
+      <Turn endTime="1601.72" speaker="ALL" startTime="1599.16">
+        <Sync time="1599.16" />
+      </Turn>
+      <Turn endTime="1608.52" speaker="B" startTime="1601.72">
+        <Sync time="1601.72" />
+      </Turn>
+      <Turn endTime="1610.68" speaker="MULTI" startTime="1608.52">
+        <Sync time="1608.52" />
+      </Turn>
+      <Turn endTime="1618.4" speaker="B" startTime="1610.68">
+        <Sync time="1610.68" />
+      </Turn>
+      <Turn endTime="1625.48" speaker="MULTI" startTime="1618.4">
+        <Sync time="1618.4" />
+      </Turn>
+      <Turn endTime="1630.96" speaker="B" startTime="1625.48">
+        <Sync time="1625.48" />
+      </Turn>
+      <Turn endTime="1633.64" speaker="MULTI" startTime="1630.96">
+        <Sync time="1630.96" />
+      </Turn>
+      <Turn endTime="1635.84" speaker="B" startTime="1633.64">
+        <Sync time="1633.64" />
+      </Turn>
+      <Turn endTime="1638" speaker="M" startTime="1635.84">
+        <Sync time="1635.84" />
+      </Turn>
+      <Turn endTime="1642.24" speaker="B" startTime="1638">
+        <Sync time="1638" />
+      </Turn>
+      <Turn endTime="1644.24" speaker="MULTI" startTime="1642.24">
+        <Sync time="1642.24" />
+      </Turn>
+      <Turn endTime="1651.2" speaker="B" startTime="1644.24">
+        <Sync time="1644.24" />
+      </Turn>
+      <Turn endTime="1655.12" speaker="MULTI" startTime="1651.2">
+        <Sync time="1651.2" />
+      </Turn>
+      <Turn endTime="1659.92" speaker="B" startTime="1655.12">
+        <Sync time="1655.12" />
+      </Turn>
+      <Turn endTime="1662.88" speaker="ALL" startTime="1659.92">
+        <Sync time="1659.92" />
+      </Turn>
+      <Turn endTime="1665.68" speaker="B" startTime="1662.88">
+        <Sync time="1662.88" />
+      </Turn>
+      <Turn endTime="1668.64" speaker="MULTI" startTime="1665.68">
+        <Sync time="1665.68" />
+      </Turn>
+      <Turn endTime="1674.92" speaker="B" startTime="1668.64">
+        <Sync time="1668.64" />
+      </Turn>
+      <Turn endTime="1677.76" speaker="D" startTime="1674.92">
+        <Sync time="1674.92" />
+      </Turn>
+      <Turn endTime="1682.48" speaker="B" startTime="1677.76">
+        <Sync time="1677.76" />
+      </Turn>
+      <Turn endTime="1685" speaker="C" startTime="1682.48">
+        <Sync time="1682.48" />
+      </Turn>
+      <Turn endTime="1687.88" speaker="B" startTime="1685">
+        <Sync time="1685" />
+      </Turn>
+      <Turn endTime="1688.92" speaker="M" startTime="1687.88">
+        <Sync time="1687.88" />
+      </Turn>
+      <Turn endTime="1691.08" speaker="ALL" startTime="1688.92">
+        <Sync time="1688.92" />
+      </Turn>
+      <Turn endTime="1694.44" speaker="B" startTime="1691.08">
+        <Sync time="1691.08" />
+      </Turn>
+      <Turn endTime="1698.16" speaker="D" startTime="1694.44">
+        <Sync time="1694.44" />
+      </Turn>
+      <Turn endTime="1700.52" speaker="MULTI" startTime="1698.16">
+        <Sync time="1698.16" />
+      </Turn>
+      <Turn endTime="1713.64" speaker="D" startTime="1700.52">
+        <Sync time="1700.52" />
+      </Turn>
+      <Turn endTime="1717" speaker="MULTI" startTime="1713.64">
+        <Sync time="1713.64" />
+      </Turn>
+      <Turn endTime="1731.52" speaker="D" startTime="1717">
+        <Sync time="1717" />
+      </Turn>
+      <Turn endTime="1735.12" speaker="MULTI" startTime="1731.52">
+        <Sync time="1731.52" />
+      </Turn>
+      <Turn endTime="1743.88" speaker="D" startTime="1735.12">
+        <Sync time="1735.12" />
+      </Turn>
+      <Turn endTime="1746.84" speaker="M" startTime="1743.88">
+        <Sync time="1743.88" />
+      </Turn>
+      <Turn endTime="1753.92" speaker="D" startTime="1746.84">
+        <Sync time="1746.84" />
+      </Turn>
+      <Turn endTime="1760.64" speaker="MULTI" startTime="1753.92">
+        <Sync time="1753.92" />
+      </Turn>
+      <Turn endTime="1766.16" speaker="D" startTime="1760.64">
+        <Sync time="1760.64" />
+      </Turn>
+      <Turn endTime="1768" speaker="MULTI" startTime="1766.16">
+        <Sync time="1766.16" />
+      </Turn>
+      <Turn endTime="1768.8" speaker="D" startTime="1768">
+        <Sync time="1768" />
+      </Turn>
+      <Turn endTime="1770.68" speaker="M" startTime="1768.8">
+        <Sync time="1768.8" />
+      </Turn>
+      <Turn endTime="1774.2" speaker="ALL" startTime="1770.68">
+        <Sync time="1770.68" />
+      </Turn>
+      <Turn endTime="1783.28" speaker="A" startTime="1774.2">
+        <Sync time="1774.2" />
+      </Turn>
+      <Turn endTime="1785.96" speaker="D" startTime="1783.28">
+        <Sync time="1783.28" />
+      </Turn>
+      <Turn endTime="1788.8" speaker="A" startTime="1785.96">
+        <Sync time="1785.96" />
+      </Turn>
+      <Turn endTime="1790.16" speaker="D" startTime="1788.8">
+        <Sync time="1788.8" />
+      </Turn>
+      <Turn endTime="1792.32" speaker="A" startTime="1790.16">
+        <Sync time="1790.16" />
+      </Turn>
+      <Turn endTime="1796.68" speaker="ALL" startTime="1792.32">
+        <Sync time="1792.32" />
+      </Turn>
+      <Turn endTime="1798.96" speaker="MULTI" startTime="1796.68">
+        <Sync time="1796.68" />
+      </Turn>
+      <Turn endTime="1807.04" speaker="A" startTime="1798.96">
+        <Sync time="1798.96" />
+      </Turn>
+      <Turn endTime="1810.32" speaker="ALL" startTime="1807.04">
+        <Sync time="1807.04" />
+      </Turn>
+      <Turn endTime="1811.68" speaker="A" startTime="1810.32">
+        <Sync time="1810.32" />
+      </Turn>
+      <Turn endTime="1817.12" speaker="M" startTime="1811.68">
+        <Sync time="1811.68" />
+      </Turn>
+      <Turn endTime="1821.28" speaker="ALL" startTime="1817.12">
+        <Sync time="1817.12" />
+      </Turn>
+      <Turn endTime="1823.52" speaker="M" startTime="1821.28">
+        <Sync time="1821.28" />
+      </Turn>
+      <Turn endTime="1825.72" speaker="A" startTime="1823.52">
+        <Sync time="1823.52" />
+      </Turn>
+      <Turn endTime="1827.8" speaker="M" startTime="1825.72">
+        <Sync time="1825.72" />
+      </Turn>
+      <Turn endTime="1830.52" speaker="A" startTime="1827.8">
+        <Sync time="1827.8" />
+      </Turn>
+      <Turn endTime="1833.88" speaker="MULTI" startTime="1830.52">
+        <Sync time="1830.52" />
+      </Turn>
+      <Turn endTime="1839.12" speaker="A" startTime="1833.88">
+        <Sync time="1833.88" />
+      </Turn>
+      <Turn endTime="1841.48" speaker="MULTI" startTime="1839.12">
+        <Sync time="1839.12" />
+      </Turn>
+      <Turn endTime="1855.4" speaker="A" startTime="1841.48">
+        <Sync time="1841.48" />
+      </Turn>
+      <Turn endTime="1857.92" speaker="M" startTime="1855.4">
+        <Sync time="1855.4" />
+      </Turn>
+      <Turn endTime="1862.24" speaker="A" startTime="1857.92">
+        <Sync time="1857.92" />
+      </Turn>
+      <Turn endTime="1866.72" speaker="M" startTime="1862.24">
+        <Sync time="1862.24" />
+      </Turn>
+      <Turn endTime="1870.08" speaker="A" startTime="1866.72">
+        <Sync time="1866.72" />
+      </Turn>
+      <Turn endTime="1872.36" speaker="MULTI" startTime="1870.08">
+        <Sync time="1870.08" />
+      </Turn>
+      <Turn endTime="1878.96" speaker="A" startTime="1872.36">
+        <Sync time="1872.36" />
+      </Turn>
+      <Turn endTime="1881.16" speaker="MULTI" startTime="1878.96">
+        <Sync time="1878.96" />
+      </Turn>
+      <Turn endTime="1885.8" speaker="A" startTime="1881.16">
+        <Sync time="1881.16" />
+      </Turn>
+      <Turn endTime="1887.2" speaker="M" startTime="1885.8">
+        <Sync time="1885.8" />
+      </Turn>
+      <Turn endTime="1895.08" speaker="ALL" startTime="1887.2">
+        <Sync time="1887.2" />
+      </Turn>
+      <Turn endTime="1898.76" speaker="C" startTime="1895.08">
+        <Sync time="1895.08" />
+      </Turn>
+      <Turn endTime="1901.56" speaker="MULTI" startTime="1898.76">
+        <Sync time="1898.76" />
+      </Turn>
+      <Turn endTime="1905.64" speaker="C" startTime="1901.56">
+        <Sync time="1901.56" />
+      </Turn>
+      <Turn endTime="1908.08" speaker="MULTI" startTime="1905.64">
+        <Sync time="1905.64" />
+      </Turn>
+      <Turn endTime="1912.36" speaker="C" startTime="1908.08">
+        <Sync time="1908.08" />
+      </Turn>
+      <Turn endTime="1915.24" speaker="ALL" startTime="1912.36">
+        <Sync time="1912.36" />
+      </Turn>
+      <Turn endTime="1918.84" speaker="C" startTime="1915.24">
+        <Sync time="1915.24" />
+      </Turn>
+      <Turn endTime="1922.2" speaker="MULTI" startTime="1918.84">
+        <Sync time="1918.84" />
+      </Turn>
+      <Turn endTime="1931.2" speaker="C" startTime="1922.2">
+        <Sync time="1922.2" />
+      </Turn>
+      <Turn endTime="1934.08" speaker="MULTI" startTime="1931.2">
+        <Sync time="1931.2" />
+      </Turn>
+      <Turn endTime="1940.52" speaker="C" startTime="1934.08">
+        <Sync time="1934.08" />
+      </Turn>
+      <Turn endTime="1943.44" speaker="ALL" startTime="1940.52">
+        <Sync time="1940.52" />
+      </Turn>
+      <Turn endTime="1949.08" speaker="C" startTime="1943.44">
+        <Sync time="1943.44" />
+      </Turn>
+      <Turn endTime="1952.84" speaker="MULTI" startTime="1949.08">
+        <Sync time="1949.08" />
+      </Turn>
+      <Turn endTime="1958.04" speaker="C" startTime="1952.84">
+        <Sync time="1952.84" />
+      </Turn>
+      <Turn endTime="1961.56" speaker="MULTI" startTime="1958.04">
+        <Sync time="1958.04" />
+      </Turn>
+      <Turn endTime="1970.68" speaker="C" startTime="1961.56">
+        <Sync time="1961.56" />
+      </Turn>
+      <Turn endTime="1975.48" speaker="ALL" startTime="1970.68">
+        <Sync time="1970.68" />
+      </Turn>
+      <Turn endTime="1980.96" speaker="C" startTime="1975.48">
+        <Sync time="1975.48" />
+      </Turn>
+      <Turn endTime="1985.08" speaker="MULTI" startTime="1980.96">
+        <Sync time="1980.96" />
+      </Turn>
+      <Turn endTime="1989.24" speaker="C" startTime="1985.08">
+        <Sync time="1985.08" />
+      </Turn>
+      <Turn endTime="1991.8" speaker="MULTI" startTime="1989.24">
+        <Sync time="1989.24" />
+      </Turn>
+      <Turn endTime="1994.72" speaker="C" startTime="1991.8">
+        <Sync time="1991.8" />
+      </Turn>
+      <Turn endTime="1997.4" speaker="M" startTime="1994.72">
+        <Sync time="1994.72" />
+      </Turn>
+      <Turn endTime="2001.76" speaker="C" startTime="1997.4">
+        <Sync time="1997.4" />
+      </Turn>
+      <Turn endTime="2004.16" speaker="A" startTime="2001.76">
+        <Sync time="2001.76" />
+      </Turn>
+      <Turn endTime="2016.44" speaker="C" startTime="2004.16">
+        <Sync time="2004.16" />
+      </Turn>
+      <Turn endTime="2019.64" speaker="M" startTime="2016.44">
+        <Sync time="2016.44" />
+      </Turn>
+      <Turn endTime="2023.6" speaker="ALL" startTime="2019.64">
+        <Sync time="2019.64" />
+      </Turn>
+      <Turn endTime="2026.68" speaker="A" startTime="2023.6">
+        <Sync time="2023.6" />
+      </Turn>
+      <Turn endTime="2028.56" speaker="MULTI" startTime="2026.68">
+        <Sync time="2026.68" />
+      </Turn>
+      <Turn endTime="2031.32" speaker="M" startTime="2028.56">
+        <Sync time="2028.56" />
+      </Turn>
+      <Turn endTime="2033.96" speaker="ALL" startTime="2031.32">
+        <Sync time="2031.32" />
+      </Turn>
+      <Turn endTime="2036.24" speaker="M" startTime="2033.96">
+        <Sync time="2033.96" />
+      </Turn>
+      <Turn endTime="2040.76" speaker="MULTI" startTime="2036.24">
+        <Sync time="2036.24" />
+      </Turn>
+      <Turn endTime="2043.08" speaker="B" startTime="2040.76">
+        <Sync time="2040.76" />
+      </Turn>
+      <Turn endTime="2044.92" speaker="M" startTime="2043.08">
+        <Sync time="2043.08" />
+      </Turn>
+      <Turn endTime="2047.6" speaker="ALL" startTime="2044.92">
+        <Sync time="2044.92" />
+      </Turn>
+      <Turn endTime="2060.48" speaker="B" startTime="2047.6">
+        <Sync time="2047.6" />
+      </Turn>
+      <Turn endTime="2064.24" speaker="MULTI" startTime="2060.48">
+        <Sync time="2060.48" />
+      </Turn>
+      <Turn endTime="2067.52" speaker="B" startTime="2064.24">
+        <Sync time="2064.24" />
+      </Turn>
+      <Turn endTime="2071.52" speaker="ALL" startTime="2067.52">
+        <Sync time="2067.52" />
+      </Turn>
+      <Turn endTime="2074.76" speaker="B" startTime="2071.52">
+        <Sync time="2071.52" />
+      </Turn>
+      <Turn endTime="2076.52" speaker="M" startTime="2074.76">
+        <Sync time="2074.76" />
+      </Turn>
+      <Turn endTime="2079.52" speaker="MULTI" startTime="2076.52">
+        <Sync time="2076.52" />
+      </Turn>
+      <Turn endTime="2084.08" speaker="B" startTime="2079.52">
+        <Sync time="2079.52" />
+      </Turn>
+      <Turn endTime="2087.32" speaker="ALL" startTime="2084.08">
+        <Sync time="2084.08" />
+      </Turn>
+      <Turn endTime="2095.8" speaker="B" startTime="2087.32">
+        <Sync time="2087.32" />
+      </Turn>
+      <Turn endTime="2098.84" speaker="MULTI" startTime="2095.8">
+        <Sync time="2095.8" />
+      </Turn>
+      <Turn endTime="2108.44" speaker="B" startTime="2098.84">
+        <Sync time="2098.84" />
+      </Turn>
+      <Turn endTime="2111.72" speaker="MULTI" startTime="2108.44">
+        <Sync time="2108.44" />
+      </Turn>
+      <Turn endTime="2121.64" speaker="B" startTime="2111.72">
+        <Sync time="2111.72" />
+      </Turn>
+      <Turn endTime="2124.48" speaker="ALL" startTime="2121.64">
+        <Sync time="2121.64" />
+      </Turn>
+      <Turn endTime="2131.4" speaker="B" startTime="2124.48">
+        <Sync time="2124.48" />
+      </Turn>
+      <Turn endTime="2132.96" speaker="M" startTime="2131.4">
+        <Sync time="2131.4" />
+      </Turn>
+      <Turn endTime="2135.24" speaker="B" startTime="2132.96">
+        <Sync time="2132.96" />
+      </Turn>
+      <Turn endTime="2137.84" speaker="ALL" startTime="2135.24">
+        <Sync time="2135.24" />
+      </Turn>
+      <Turn endTime="2139.84" speaker="M" startTime="2137.84">
+        <Sync time="2137.84" />
+      </Turn>
+      <Turn endTime="2141.32" speaker="MULTI" startTime="2139.84">
+        <Sync time="2139.84" />
+      </Turn>
+      <Turn endTime="2142.56" speaker="M" startTime="2141.32">
+        <Sync time="2141.32" />
+      </Turn>
+      <Turn endTime="2148.32" speaker="ALL" startTime="2142.56">
+        <Sync time="2142.56" />
+      </Turn>
+      <Turn endTime="2150.92" speaker="M" startTime="2148.32">
+        <Sync time="2148.32" />
+      </Turn>
+      <Turn endTime="2153.64" speaker="MULTI" startTime="2150.92">
+        <Sync time="2150.92" />
+      </Turn>
+      <Turn endTime="2156.52" speaker="M" startTime="2153.64">
+        <Sync time="2153.64" />
+      </Turn>
+      <Turn endTime="2158.8" speaker="C" startTime="2156.52">
+        <Sync time="2156.52" />
+      </Turn>
+      <Turn endTime="2163.08" speaker="MULTI" startTime="2158.8">
+        <Sync time="2158.8" />
+      </Turn>
+      <Turn endTime="2165.08" speaker="C" startTime="2163.08">
+        <Sync time="2163.08" />
+      </Turn>
+      <Turn endTime="2167.92" speaker="MULTI" startTime="2165.08">
+        <Sync time="2165.08" />
+      </Turn>
+      <Turn endTime="2173.84" speaker="C" startTime="2167.92">
+        <Sync time="2167.92" />
+      </Turn>
+      <Turn endTime="2176.84" speaker="MULTI" startTime="2173.84">
+        <Sync time="2173.84" />
+      </Turn>
+      <Turn endTime="2181.32" speaker="C" startTime="2176.84">
+        <Sync time="2176.84" />
+      </Turn>
+      <Turn endTime="2184.36" speaker="ALL" startTime="2181.32">
+        <Sync time="2181.32" />
+      </Turn>
+      <Turn endTime="2186.64" speaker="MULTI" startTime="2184.36">
+        <Sync time="2184.36" />
+      </Turn>
+      <Turn endTime="2202.36" speaker="C" startTime="2186.64">
+        <Sync time="2186.64" />
+      </Turn>
+      <Turn endTime="2205.88" speaker="MULTI" startTime="2202.36">
+        <Sync time="2202.36" />
+      </Turn>
+      <Turn endTime="2209.96" speaker="C" startTime="2205.88">
+        <Sync time="2205.88" />
+      </Turn>
+      <Turn endTime="2213.96" speaker="ALL" startTime="2209.96">
+        <Sync time="2209.96" />
+      </Turn>
+      <Turn endTime="2219.32" speaker="C" startTime="2213.96">
+        <Sync time="2213.96" />
+      </Turn>
+      <Turn endTime="2221.68" speaker="MULTI" startTime="2219.32">
+        <Sync time="2219.32" />
+      </Turn>
+      <Turn endTime="2226.2" speaker="C" startTime="2221.68">
+        <Sync time="2221.68" />
+      </Turn>
+      <Turn endTime="2228.76" speaker="ALL" startTime="2226.2">
+        <Sync time="2226.2" />
+      </Turn>
+      <Turn endTime="2239.64" speaker="C" startTime="2228.76">
+        <Sync time="2228.76" />
+      </Turn>
+      <Turn endTime="2242.16" speaker="ALL" startTime="2239.64">
+        <Sync time="2239.64" />
+      </Turn>
+      <Turn endTime="2244.48" speaker="C" startTime="2242.16">
+        <Sync time="2242.16" />
+      </Turn>
+      <Turn endTime="2245.8" speaker="M" startTime="2244.48">
+        <Sync time="2244.48" />
+      </Turn>
+      <Turn endTime="2252" speaker="C" startTime="2245.8">
+        <Sync time="2245.8" />
+      </Turn>
+      <Turn endTime="2260.24" speaker="MULTI" startTime="2252">
+        <Sync time="2252" />
+      </Turn>
+      <Turn endTime="2265.16" speaker="C" startTime="2260.24">
+        <Sync time="2260.24" />
+      </Turn>
+      <Turn endTime="2268.8" speaker="MULTI" startTime="2265.16">
+        <Sync time="2265.16" />
+      </Turn>
+      <Turn endTime="2275.8" speaker="C" startTime="2268.8">
+        <Sync time="2268.8" />
+      </Turn>
+      <Turn endTime="2279.52" speaker="ALL" startTime="2275.8">
+        <Sync time="2275.8" />
+      </Turn>
+      <Turn endTime="2286.56" speaker="C" startTime="2279.52">
+        <Sync time="2279.52" />
+      </Turn>
+      <Turn endTime="2288.28" speaker="M" startTime="2286.56">
+        <Sync time="2286.56" />
+      </Turn>
+      <Turn endTime="2291.16" speaker="ALL" startTime="2288.28">
+        <Sync time="2288.28" />
+      </Turn>
+      <Turn endTime="2293.08" speaker="C" startTime="2291.16">
+        <Sync time="2291.16" />
+      </Turn>
+      <Turn endTime="2295.8" speaker="MULTI" startTime="2293.08">
+        <Sync time="2293.08" />
+      </Turn>
+      <Turn endTime="2304.4" speaker="C" startTime="2295.8">
+        <Sync time="2295.8" />
+      </Turn>
+      <Turn endTime="2307.68" speaker="MULTI" startTime="2304.4">
+        <Sync time="2304.4" />
+      </Turn>
+      <Turn endTime="2315.64" speaker="C" startTime="2307.68">
+        <Sync time="2307.68" />
+      </Turn>
+      <Turn endTime="2318.32" speaker="MULTI" startTime="2315.64">
+        <Sync time="2315.64" />
+      </Turn>
+      <Turn endTime="2328.6" speaker="C" startTime="2318.32">
+        <Sync time="2318.32" />
+      </Turn>
+      <Turn endTime="2330.96" speaker="M" startTime="2328.6">
+        <Sync time="2328.6" />
+      </Turn>
+      <Turn endTime="2334.12" speaker="ALL" startTime="2330.96">
+        <Sync time="2330.96" />
+      </Turn>
+      <Turn endTime="2340" speaker="M" startTime="2334.12">
+        <Sync time="2334.12" />
+      </Turn>
+      <Turn endTime="2340.76" speaker="ALL" startTime="2340">
+        <Sync time="2340" />
+      </Turn>
+      <Turn endTime="2349.72" speaker="CREDITS" startTime="2340.76">
+        <Sync time="2340.76" />
+      </Turn>
+    </Section>
+  </Episode>
+</Trans>
