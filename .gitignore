@@ -1,4 +1,4 @@
 *.mp4
-image*
+images/*
 *.wav
 audio*
